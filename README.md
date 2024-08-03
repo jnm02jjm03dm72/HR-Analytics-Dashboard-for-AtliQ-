@@ -21,7 +21,5 @@ The HR Analytics Dashboard for AtliQ is designed to provide comprehensive insigh
 ## Conclusion
 The HR Analytics Dashboard for AtliQ successfully enhanced HR decision-making by providing actionable insights into workforce dynamics. The project led to improved retention strategies, more effective employee development programs, and a stronger focus on workplace diversity and inclusion.
 
-## Getting Started
-1. *Clone the repository:*
-   ```bash
-   git clone https://github.com/yourusername/hr-analytics-dashboard-atliq.git
+## Power Bi file link
+https://app.powerbi.com/groups/me/reports/902b3224-f100-4fe3-9dd1-a523d5240255/ReportSection?experience=power-bi
